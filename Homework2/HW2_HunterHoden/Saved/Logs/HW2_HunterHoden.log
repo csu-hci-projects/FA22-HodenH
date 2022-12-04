@@ -6808,3 +6808,56 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-22.51.34:537][259]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
 [2022.12.04-22.52.05:421][353]LogSlate: Window 'Output Log' being destroyed
 [2022.12.04-22.52.05:432][353]LogSlate: Window 'Output Log' being destroyed
+[2022.12.04-22.54.32:718][907]BlueprintLog: New page: Compile HUD
+[2022.12.04-22.54.32:835][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.12.04-22.54.33:464][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-22.54.33:471][962]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-22.54.33:472][962]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUD93D722FB4CB00CA13473768B15CED527.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-22.54.33:492][962]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-22.54.33:492][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-22.57.50:257][750]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-22.57.50:394][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.04-22.57.51:020][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-22.57.51:044][786]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-22.57.51:045][786]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_Zombie48F56D4D408599699865AD9B700F7F01.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-22.57.51:070][786]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-22.57.51:071][786]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-22.57.53:867][ 71]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.12.04-22.57.55:634][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.12.04-22.57.55:644][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto2
+[2022.12.04-22.57.55:646][188]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/620O222G5UIC0MNM62G7D5_Auto2E4A994FE40A66B3D01B4ED8BF7901770.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto2.uasset'
+[2022.12.04-22.57.55:661][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto2
+[2022.12.04-22.57.55:662][188]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/62Z5FBBFLGY3JWLAD9SP0W_Auto265FD5629485615D8EA6C66B89809546D.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto2.uasset'
+[2022.12.04-22.57.55:668][188]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto2
+[2022.12.04-22.57.55:669][188]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/GYAR4ZXXVBA8IEWW469AF3_Auto2CE2C49B44CCB47EE42A213AFDB4AAB67.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto2.uasset'
+[2022.12.04-22.57.55:671][188]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.102
+[2022.12.04-22.57.55:671][188]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.102
+[2022.12.04-22.58.21:643][717]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-22.58.21:773][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.04-22.58.22:916][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-22.58.22:939][833]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-22.58.22:940][833]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_Zombie19B66F1A4F1BE5689E6FCCAD5F926FAE.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-22.58.22:960][833]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-22.58.22:961][833]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-22.59.41:653][633]LogDerivedDataCache: C:/Users/Hunter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.674 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-23.02.18:710][367]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-23.02.18:846][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.12.04-23.02.19:548][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-23.02.19:571][417]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-23.02.19:572][417]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_ZombieCC6DF8A04F11D2DFCFBB6680ADA09562.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-23.02.19:637][417]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-23.02.19:637][417]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-23.02.49:779][688]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-23.02.49:908][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.12.04-23.02.50:447][728]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-23.02.50:468][728]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-23.02.50:469][728]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_ZombieCED9540B4D2616D1ED8304AB9FE20138.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-23.02.50:493][728]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-23.02.50:493][728]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-23.03.46:101][761]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-23.03.46:231][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.12.04-23.03.46:948][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-23.03.46:969][817]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-23.03.46:970][817]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_ZombieE632F3B946CB2923FF41DD8C77DC1039.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-23.03.46:994][817]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-23.03.46:994][817]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
