@@ -2737,3 +2737,297 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.04-20.49.36:720][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.12.04-20.49.36:823][949]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
 [2022.12.04-20.49.36:823][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.52.16:068][598]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.52.16:068][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.52.16:082][598]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.52.16:082][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.52.16:220][598]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.52.16:220][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.52.16:880][647]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-20.52.16:880][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-20.52.30:295][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-20.52.30:295][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-20.52.30:901][265]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportTrace.NS_TeleportTrace took 0.641217 sec, no shader worker used.
+[2022.12.04-20.52.30:934][265]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_MenuLaser.NS_MenuLaser took 0.822885 sec, no shader worker used.
+[2022.12.04-20.52.30:941][265]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_PlayAreaBounds.NS_PlayAreaBounds took 0.780105 sec, no shader worker used.
+[2022.12.04-20.52.30:952][265]LogNiagara: Compiling System NiagaraSystem /Game/VRTemplate/VFX/NS_TeleportRing.NS_TeleportRing took 0.753718 sec, no shader worker used.
+[2022.12.04-20.52.32:270][362]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.12.04-20.53.08:654][209]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-20.53.08:846][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.12.04-20.53.09:415][243]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-20.53.09:514][243]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-20.53.09:525][243]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawnD35AEE3449CA73628E5C2B9E74E28B02.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-20.53.09:546][243]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-20.53.09:546][243]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-20.53.46:860][991]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.12.04-20.53.46:874][991]LogContentBrowser: Creating deferred item: NewFolder
+[2022.12.04-20.53.46:886][992]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.12.04-20.53.48:693][ 79]LogContentBrowser: Attempting asset rename: NewFolder -> Widgets
+[2022.12.04-20.53.48:693][ 79]LogContentBrowser: End creating deferred item NewFolder
+[2022.12.04-20.54.12:793][516]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2022.12.04-20.54.12:803][516]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.12.04-20.54.12:809][516]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.12.04-20.54.12:837][518]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2022.12.04-20.54.17:312][733]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> HealthBar
+[2022.12.04-20.54.17:321][733]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.12.04-20.54.21:500][958]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-20.54.21:500][958]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.12.04-20.54.24:150][121]LogContentBrowser: Attempting asset rename: HealthBar -> HUD
+[2022.12.04-20.54.24:231][121]LogMetaData: Removing '/Game/Widgets/HUD.SKEL_HUD_C' ref from Metadata '/Game/Widgets/HealthBar.PackageMetaData'
+[2022.12.04-20.54.24:231][121]LogMetaData: Removing '/Game/Widgets/HUD.HUD_C' ref from Metadata '/Game/Widgets/HealthBar.PackageMetaData'
+[2022.12.04-20.54.24:231][121]LogMetaData: Removing '/Game/Widgets/HUD.HUD:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widgets/HealthBar.PackageMetaData'
+[2022.12.04-20.54.24:231][121]LogMetaData: Removing '/Game/Widgets/HUD.HUD:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widgets/HealthBar.PackageMetaData'
+[2022.12.04-20.54.24:231][121]LogMetaData: Removing '/Game/Widgets/HUD.HUD:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widgets/HealthBar.PackageMetaData'
+[2022.12.04-20.54.24:289][121]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-20.54.24:294][121]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-20.54.24:294][121]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDEB03AC0042DC2C3D1FC43E977074E753.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-20.54.24:433][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2022.12.04-20.54.24:492][121]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.12.04-20.54.24:532][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.12.04-20.54.24:541][121]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-20.54.24:541][121]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-20.54.26:007][196]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-20.54.26:009][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-20.54.26:039][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-20.54.26:048][196]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.12.04-20.54.26:513][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.54.26:513][196]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.54.26:662][196]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.12.04-20.55.38:846][909]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.04-20.57.03:943][572]BlueprintLog: New page: Compile HUD
+[2022.12.04-20.57.04:017][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.04-20.57.04:570][620]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-20.57.04:578][620]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-20.57.04:579][620]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDD2DAC716446007FEC66B269133F607B9.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-20.57.04:608][620]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-20.57.04:608][620]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-20.57.11:374][245]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-20.57.11:506][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.04-20.57.11:872][247]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.12.04-20.57.11:880][247]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.057
+[2022.12.04-20.57.11:881][247]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2022.12.04-20.57.11:907][247]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2022.12.04-20.57.11:907][247]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2022.12.04-20.57.12:003][247]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto5
+[2022.12.04-20.57.12:003][247]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawn_Auto56C9A31AA46784675A30647A4AA9CDADB.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto5.uasset'
+[2022.12.04-20.57.12:004][247]LogFileHelpers: Auto-saving content packages took 0.124
+[2022.12.04-20.58.07:053][448]BlueprintLog: New page: Compile HUD
+[2022.12.04-20.58.07:122][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2022.12.04-20.58.07:651][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-20.58.07:658][495]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-20.58.07:659][495]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUD51313C0A482D5ED00D622BB7C9B2F777.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-20.58.07:678][495]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-20.58.07:678][495]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-20.58.15:274][908]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.58.15:274][908]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.59.04:533][273]BlueprintLog: New page: Compile HUD
+[2022.12.04-20.59.04:607][273]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.12.04-20.59.05:215][329]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-20.59.05:224][329]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-20.59.05:225][329]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDD79AF06C46925A509C185CA7130A8847.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-20.59.05:243][329]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-20.59.05:243][329]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-20.59.10:706][938]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.59.10:706][938]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.59.19:775][833]BlueprintLog: New page: Compile HUD
+[2022.12.04-20.59.19:779][833]LogBlueprint: Error: [AssetLog] C:\Users\Hunter\Documents\GitHub\HodenH\Homework2\HW2_HunterHoden\Content\Widgets\HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar_41 ': Binding: 'None' : 'None' was not found on 'HUD'.
+[2022.12.04-20.59.19:848][833]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.04-20.59.41:558][295]LogDerivedDataCache: C:/Users/Hunter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.882 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.04-20.59.53:911][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-20.59.53:911][610]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.00.00:079][285]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.00.00:081][285]LogBlueprint: Error: [AssetLog] C:\Users\Hunter\Documents\GitHub\HodenH\Homework2\HW2_HunterHoden\Content\Widgets\HUD.uasset: [Compiler] Binding: Property ' /Script/UMG.ProgressBar:FillColorAndOpacityDelegate ' on Widget ' ProgressBar_41 ': Binding: 'None' : 'None' was not found on 'HUD'.
+[2022.12.04-21.00.00:151][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2022.12.04-21.00.10:778][428]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.00.10:850][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.12.04-21.00.11:528][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.00.11:534][472]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.00.11:535][472]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDBAF9687E48B71B7E124905973F24B52E.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.00.11:560][472]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.00.11:560][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.00.24:014][788]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.00.24:146][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.04-21.00.25:104][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.00.25:198][843]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.00.25:200][843]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawn98F63B4547D3786BC4E74882758424C8.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.00.25:234][843]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.00.25:234][843]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.00.27:099][ 22]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.00.27:170][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.12.04-21.00.27:878][ 68]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.00.27:885][ 68]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.00.27:886][ 68]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDBB5138CB40AB21939ADFA5B5F8FA508F.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.00.27:904][ 68]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.00.27:904][ 68]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.00.53:474][878]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.00.53:545][878]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.04-21.00.54:377][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.00.54:384][962]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.00.54:386][962]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDA59998C64149B1E4C80E4AB341AFE3BA.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.00.54:403][962]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.00.54:404][962]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.00.55:369][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.00.55:369][ 72]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.01.01:102][645]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.01.01:175][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.12.04-21.01.01:645][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.01.01:652][665]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.01.01:652][665]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDCDE4D2D549DE1ADEC5E0AB954EDC1C88.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.01.01:676][665]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.01.01:677][665]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.02.38:664][ 73]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.04-21.02.55:509][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.02.55:516][891]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.02.55:517][891]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDF1EA55AE46B521B93CE4A0BC77C2D051.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.02.55:534][891]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.02.55:534][891]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.03.01:781][591]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.03.01:781][591]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.03.11:551][830]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.03.11:620][830]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.04-21.03.12:075][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.03.12:080][849]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.03.12:081][849]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUD2895ABAB421258726EC7959C5E283039.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.03.12:098][849]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.03.12:099][849]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.03.25:489][402]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.03.25:560][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.12.04-21.04.54:737][154]BlueprintLog: New page: Compile HUD
+[2022.12.04-21.04.54:807][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.12.04-21.04.55:439][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.04.55:446][212]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.04.55:447][212]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUD95CA04854A02AC9222FA33801DFBF795.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.04.55:466][212]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.04.55:466][212]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.04.56:899][365]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.04.56:899][365]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.04-21.05.36:419][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/HUD" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset" SILENT=true
+[2022.12.04-21.05.36:425][242]LogSavePackage: Moving output files for package: /Game/Widgets/HUD
+[2022.12.04-21.05.36:426][242]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/HUDE2C09D7345A274546C323BB74388CFA0.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Widgets/HUD.uasset'
+[2022.12.04-21.05.36:444][242]AssetCheck: New page: Asset Save: HUD
+[2022.12.04-21.05.36:444][242]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/HUD.HUD
+[2022.12.04-21.05.42:077][530]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-21.05.42:077][530]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-21.07.12:520][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.04-21.07.12:523][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.064
+[2022.12.04-21.07.12:523][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Zombie/BP_Zombie] ([2] browsable assets)...
+[2022.12.04-21.07.12:523][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/BP_Zombie]
+[2022.12.04-21.07.12:542][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Zombie/BP_Zombie_Auto6
+[2022.12.04-21.07.12:542][845]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_Zombie_Auto66443059F4CB1D73B80C184BE034714E8.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/Zombie/BP_Zombie_Auto6.uasset'
+[2022.12.04-21.07.12:543][845]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.12.04-21.07.14:368][ 10]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Zombie/Animation/zombie_attack_Montage1.zombie_attack_Montage1
+[2022.12.04-21.07.14:368][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-21.07.14:379][ 10]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.12.04-21.07.14:583][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.04-21.07.14:748][ 10]LogViewport: Scene viewport resized to 1141x698, mode Windowed.
+[2022.12.04-21.07.50:027][227]LogViewport: Scene viewport resized to 1141x697, mode Windowed.
+[2022.12.04-21.07.50:076][230]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.12.04-21.07.50:106][231]LogViewport: Scene viewport resized to 1141x667, mode Windowed.
+[2022.12.04-21.07.50:137][232]LogViewport: Scene viewport resized to 1141x643, mode Windowed.
+[2022.12.04-21.07.50:166][233]LogViewport: Scene viewport resized to 1141x627, mode Windowed.
+[2022.12.04-21.07.50:196][234]LogViewport: Scene viewport resized to 1141x620, mode Windowed.
+[2022.12.04-21.07.50:225][235]LogViewport: Scene viewport resized to 1141x613, mode Windowed.
+[2022.12.04-21.07.50:254][236]LogViewport: Scene viewport resized to 1141x600, mode Windowed.
+[2022.12.04-21.07.50:284][237]LogViewport: Scene viewport resized to 1141x589, mode Windowed.
+[2022.12.04-21.07.50:313][238]LogViewport: Scene viewport resized to 1141x580, mode Windowed.
+[2022.12.04-21.07.50:343][239]LogViewport: Scene viewport resized to 1141x568, mode Windowed.
+[2022.12.04-21.07.50:371][240]LogViewport: Scene viewport resized to 1141x562, mode Windowed.
+[2022.12.04-21.07.50:400][241]LogViewport: Scene viewport resized to 1141x560, mode Windowed.
+[2022.12.04-21.07.50:429][242]LogViewport: Scene viewport resized to 1141x557, mode Windowed.
+[2022.12.04-21.07.50:460][243]LogViewport: Scene viewport resized to 1141x550, mode Windowed.
+[2022.12.04-21.07.50:491][244]LogViewport: Scene viewport resized to 1141x548, mode Windowed.
+[2022.12.04-21.08.09:138][799]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-21.08.47:208][230]LogSavePackage: Moving output files for package: /Game/Zombie/Animation/zombie_attack_Montage1
+[2022.12.04-21.08.47:209][230]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/zombie_attack_Montage1FF591A88435AD7242FD8C48AB03F5164.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/Animation/zombie_attack_Montage1.uasset'
+[2022.12.04-21.08.47:237][230]AssetCheck: New page: Asset Save: zombie_attack_Montage1
+[2022.12.04-21.08.47:237][230]LogContentValidation: Display: Validating AnimMontage /Game/Zombie/Animation/zombie_attack_Montage1.zombie_attack_Montage1
+[2022.12.04-21.09.43:518][774]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-21.09.43:529][774]LogBlueprint: Error: [AssetLog] C:\Users\Hunter\Documents\GitHub\HodenH\Homework2\HW2_HunterHoden\Content\Zombie\BP_Zombie.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2022.12.04-21.09.43:632][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.12.04-21.09.44:175][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Zombie/BP_Zombie" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset" SILENT=true
+[2022.12.04-21.09.44:194][813]LogSavePackage: Moving output files for package: /Game/Zombie/BP_Zombie
+[2022.12.04-21.09.44:195][813]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_Zombie948A38A64B9DEC5A6AE948B812089617.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/Zombie/BP_Zombie.uasset'
+[2022.12.04-21.09.44:216][813]AssetCheck: New page: Asset Save: BP_Zombie
+[2022.12.04-21.09.44:216][813]LogContentValidation: Display: Validating Blueprint /Game/Zombie/BP_Zombie.BP_Zombie
+[2022.12.04-21.09.56:198][229]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.12.04-21.10.48:771][516]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-21.10.48:782][516]LogBlueprint: Error: [AssetLog] C:\Users\Hunter\Documents\GitHub\HodenH\Homework2\HW2_HunterHoden\Content\Zombie\BP_Zombie.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2022.12.04-21.10.48:890][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.04-21.11.33:396][264]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-21.12.00:552][578]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-21.12.00:671][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.12.04-21.15.10:197][483]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-21.15.20:692][185]BlueprintLog: New page: Compile BP_Zombie
+[2022.12.04-21.15.20:818][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.04-21.16.27:721][358]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-21.16.27:721][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.16.27:848][358]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.12.04-21.16.27:848][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.04-21.17.05:021][659]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.17.05:177][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.04-21.17.05:685][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.17.05:780][669]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.17.05:781][669]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawnA14100A64576498BCF7E2D9655076AF4.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.17.05:814][669]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.17.05:814][669]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.19.29:453][395]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.19.29:604][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2022.12.04-21.19.50:105][994]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.19.50:247][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.04-21.19.50:847][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.19.50:945][  9]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.19.50:956][  9]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawnC064E48E4759F1021D54F286DBF3267D.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.19.50:977][  9]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.19.50:977][  9]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.19.52:154][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.19.52:252][127]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.19.52:253][127]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawnE7CADB4A469CB19AC344BA9125E48E3D.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.19.52:273][127]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.19.52:273][127]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.20.17:417][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.04-21.20.17:425][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto7
+[2022.12.04-21.20.17:425][266]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/GYAR4ZXXVBA8IEWW469AF3_Auto718F07DF34853437C1B3015BD1AE4288D.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto7.uasset'
+[2022.12.04-21.20.17:429][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto7
+[2022.12.04-21.20.17:429][266]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/62Z5FBBFLGY3JWLAD9SP0W_Auto72FFC6A1846C7F11363F3E7A474435F73.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto7.uasset'
+[2022.12.04-21.20.17:433][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto7
+[2022.12.04-21.20.17:434][266]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/620O222G5UIC0MNM62G7D5_Auto71CBDB6F2493E494C9DB990885DF09746.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto7.uasset'
+[2022.12.04-21.20.17:435][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.076
+[2022.12.04-21.20.17:435][266]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
+[2022.12.04-21.20.17:436][266]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Zombie/BP_Zombie] ([2] browsable assets)...
+[2022.12.04-21.20.17:464][266]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Zombie/BP_Zombie.BP_Zombie]
+[2022.12.04-21.20.17:465][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Zombie/BP_Zombie]
+[2022.12.04-21.20.17:488][266]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Zombie/BP_Zombie_Auto7
+[2022.12.04-21.20.17:488][266]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/BP_Zombie_Auto72CBFEE12408F76FE54D60B8586389C95.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/Zombie/BP_Zombie_Auto7.uasset'
+[2022.12.04-21.20.17:491][266]LogFileHelpers: Auto-saving content packages took 0.055
+[2022.12.04-21.21.20:487][982]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.21.20:624][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.04-21.21.21:214][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.21.21:312][998]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.21.21:313][998]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawn8E0E6EB14AA6F4FD510E4F914E1B25B0.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.21.21:334][998]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.21.21:334][998]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.30.18:088][135]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.04-21.30.18:095][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.065
+[2022.12.04-21.30.18:095][135]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2022.12.04-21.30.18:095][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2022.12.04-21.30.18:192][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto8
+[2022.12.04-21.30.18:192][135]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawn_Auto87A39783F4A7DBB25B20F53ADA57F9513.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto8.uasset'
+[2022.12.04-21.30.18:193][135]LogFileHelpers: Auto-saving content packages took 0.099
+[2022.12.04-21.31.31:372][491]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.04-21.31.57:034][815]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.31.57:066][815]LogBlueprint: Error: [AssetLog] C:\Users\Hunter\Documents\GitHub\HodenH\Homework2\HW2_HunterHoden\Content\VRTemplate\Blueprints\VRPawn.uasset: [Compiler] This blueprint (self) is not a UserWidget, therefore ' Target ' must have a connection.
+[2022.12.04-21.31.57:176][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.04-21.32.12:613][741]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.32.12:751][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2022.12.04-21.32.13:799][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.32.13:898][809]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.32.13:900][809]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawn8EE126D149A84D7A806D18AD6F273B86.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.32.13:920][809]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.32.13:920][809]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2022.12.04-21.32.14:960][915]BlueprintLog: New page: Compile VRPawn
+[2022.12.04-21.32.15:101][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.12.04-21.32.15:931][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2022.12.04-21.32.16:029][957]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2022.12.04-21.32.16:031][957]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/VRPawnDD73E43A4B561C16277A198F3C7AEB72.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2022.12.04-21.32.16:056][957]AssetCheck: New page: Asset Save: VRPawn
+[2022.12.04-21.32.16:056][957]LogContentValidation: Display: Validating Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
