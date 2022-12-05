@@ -2725,3 +2725,12 @@ Script Stack (0 frames):
 [2022.12.05-02.06.18:943][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2022.12.05-02.06.18:955][475]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
 [2022.12.05-02.06.18:955][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.05-02.06.44:166][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.12.05-02.06.44:196][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto3
+[2022.12.05-02.06.44:198][579]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/GYAR4ZXXVBA8IEWW469AF3_Auto36AFD7D724781E47B80B2399AE0242BF6.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/C/D1/GYAR4ZXXVBA8IEWW469AF3_Auto3.uasset'
+[2022.12.05-02.06.44:202][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto3
+[2022.12.05-02.06.44:203][579]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/62Z5FBBFLGY3JWLAD9SP0W_Auto34AF54FE04013CBE3C77214B48F1715F6.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/8/HM/62Z5FBBFLGY3JWLAD9SP0W_Auto3.uasset'
+[2022.12.05-02.06.44:207][579]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto3
+[2022.12.05-02.06.44:208][579]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/620O222G5UIC0MNM62G7D5_Auto33BF5F89C49425192C4E74EB75191431F.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/Autosaves/Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/3/PO/620O222G5UIC0MNM62G7D5_Auto3.uasset'
+[2022.12.05-02.06.44:210][579]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VRTemplate/Maps/ZombieMap' took 0.115
+[2022.12.05-02.06.44:210][579]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.115
