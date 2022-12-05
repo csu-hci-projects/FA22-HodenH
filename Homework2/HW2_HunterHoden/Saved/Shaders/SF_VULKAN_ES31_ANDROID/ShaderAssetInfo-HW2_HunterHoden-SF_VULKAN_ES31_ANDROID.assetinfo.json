@@ -344,6 +344,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "4B2EF6440693978DCA1D51C6707705FE1475869A",
+			"Assets": [
+				"/Game/Widgets/M_HUD"
+			]
+		},
+		{
 			"ShaderMapHash": "1A6D96A7D41BEAF27F60394248A86186B6D6445A",
 			"Assets": [
 				"/Game/Zombie/ZombieGirl_Material_ncl1_2",
@@ -834,9 +840,9 @@
 			"ShaderMapHash": "05F2A4865F9ABA031A0B34CCFA10DBE82F99FECB",
 			"Assets": [
 				"/Game/VRTemplate/Maps/ZombieMap",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X-1_Y0_DL0",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X-1_Y-1_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X0_Y-1_DL0",
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X-1_Y-1_DL0",
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X-1_Y0_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L2_X0_Y0_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-2_Y-1_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-1_Y-1_DL0",
@@ -845,15 +851,15 @@
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-2_Y1_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-1_Y-2_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X1_Y-2_DL0",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-2_Y-2_DL0",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y1_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y-2_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-2_Y0_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X1_Y-1_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X1_Y0_DL0",
 				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y-1_DL0",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y0_DL0",
-				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-1_Y0_DL0"
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-2_Y-2_DL0",
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X-1_Y0_DL0",
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y1_DL0",
+				"/Game/VRTemplate/Maps/ZombieMap/_Generated_/ZombieMap_MainGrid_L1_X0_Y0_DL0"
 			]
 		},
 		{
