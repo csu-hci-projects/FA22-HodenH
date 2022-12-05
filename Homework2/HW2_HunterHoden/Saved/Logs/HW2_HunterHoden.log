@@ -14029,3 +14029,29 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.12.05-00.56.58:644][604]PackagingResults: Error: Unknown Error
 [2022.12.05-00.57.14:182][625]LogSlate: Window 'Output Log' being destroyed
 [2022.12.05-00.57.14:196][625]LogSlate: Window 'Output Log' being destroyed
+[2022.12.05-00.59.39:125][852]Cmd: DELETE
+[2022.12.05-00.59.39:125][852]Cmd: ACTOR DELETE
+[2022.12.05-00.59.39:166][852]LogEditorActor: Deleted Actor: PlayerStart
+[2022.12.05-00.59.39:245][852]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.12.05-00.59.39:250][852]LogEditorActor: Deleted 1 Actors (0.103 secs)
+[2022.12.05-00.59.42:098][104]LogDerivedDataCache: C:/Users/Hunter/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.420 and deleted 0 file(s) with total size 0 MiB.
+[2022.12.05-00.59.43:683][290]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.05-00.59.43:684][290]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.12.05-00.59.43:696][290]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/ZombieMap.ZombieMap:PersistentLevel.PlayerStart_UAID_7085C246AE86EE4F01_1408045473
+[2022.12.05-00.59.43:698][290]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.43:709][290]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/VRTemplate/Maps/ZombieMap.ZombieMap:PersistentLevel.PlayerStart_UAID_7085C246AE86EE4F01_1408045473
+[2022.12.05-00.59.43:710][290]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.47:067][447]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.50:567][616]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.52:984][722]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.54:293][789]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.55:646][858]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.58:505][  5]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-00.59.59:988][ 81]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.12.05-01.00.01:820][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.12.05-01.00.01:891][164]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.12.05-01.00.01:956][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.05-01.00.01:967][164]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/VRTemplate/Maps/ZombieMap/B/IZ/CMSZIR706G2209PQBI5G5J
+[2022.12.05-01.00.01:967][164]LogSavePackage: Moving 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Saved/CMSZIR706G2209PQBI5G5J27EFF45945A7A8B0C945429A0E53AF24.tmp' to 'C:/Users/Hunter/Documents/GitHub/HodenH/Homework2/HW2_HunterHoden/Content/__ExternalActors__/VRTemplate/Maps/ZombieMap/B/IZ/CMSZIR706G2209PQBI5G5J.uasset'
+[2022.12.05-01.00.01:987][164]AssetCheck: New page: Asset Save: PlayerStart_UAID_7085C246AE86EE4F01_1408045473
+[2022.12.05-01.00.01:988][164]LogContentValidation: Display: Validating PlayerStart /Game/VRTemplate/Maps/ZombieMap.ZombieMap:PersistentLevel.PlayerStart_UAID_7085C246AE86EE4F01_1408045473
